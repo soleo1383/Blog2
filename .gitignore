@@ -1,0 +1,8 @@
+venv/
+.idea/
+media/
+.gitignore
+**/__pycache__/
+*.pyc
+
+db.sqlite3
